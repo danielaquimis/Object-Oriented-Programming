@@ -1,4 +1,4 @@
-# UPF-POO22-G102-01
+# OOP
 LAB 1: Build a simple object-oriented simulation where multiple agents move inside a world and interact.
 
 LAB 2: Apply OOP principles in Java to model a University System through properly defined class relationships such as composition, aggregation, and dependency.
